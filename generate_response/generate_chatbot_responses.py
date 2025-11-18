@@ -225,9 +225,9 @@ def generate_responses(
 def main():
     """Main execution"""
     
-    REVIEWS_PATH = "../processed_boston_reviews.csv"
+    REVIEWS_PATH = "processed_boston_reviews.csv"
     OUTPUT_PATH = "response/chatbot_responses.parquet"
-    NUM_HOTELS = 5
+    NUM_HOTELS = 22
     
     try:
         responses_df = generate_responses(

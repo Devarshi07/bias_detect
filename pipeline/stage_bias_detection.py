@@ -9,10 +9,10 @@ load_dotenv()
 sys.path.append(str(Path(__file__).parent.parent))
 
 # Load API Keys
-os.environ['HF_TOKEN'] = os.getenv("HF_TOKEN", "")
+# os.environ['HF_TOKEN'] = os.getenv("HF_TOKEN", "")
 os.environ['OPENAI_API_KEY'] = os.getenv("OPENAI_API_KEY", "")
-os.environ['GROQ_API_KEY'] = os.getenv("GROQ_API_KEY", "")
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
+# os.environ['GROQ_API_KEY'] = os.getenv("GROQ_API_KEY", "")
+# os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # Now this should work
 from hotel_bias_detection import HotelBiasDetection
@@ -32,7 +32,7 @@ class BiasDetectionPipeline:
         """Run bias detection on chatbot responses"""
         
         # Paths
-        REVIEWS_PATH = "../processed_boston_reviews.csv"
+        REVIEWS_PATH = "processed_boston_reviews.csv"
         RESPONSES_PATH = "response/chatbot_responses.parquet"
         OUTPUT_DIR = "evaluation/results"
         
