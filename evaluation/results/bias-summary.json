@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-11-18T22:18:40.600498",
+  "total_hotels": 22,
+  "biased_hotels": 21,
+  "bias_rate": "95.5%",
+  "bias_distribution": {
+    "rating_disparity": 17,
+    "over_reliance_negative": 4
+  },
+  "low_review_hotels": 0,
+  "type2_detection_rate": "N/A",
+  "model": "gpt-4o-mini",
+  "config": {
+    "min_reviews_threshold": 4,
+    "rating_disparity_threshold": 4.2,
+    "embedding_similarity_threshold": 0.8,
+    "severity_threshold": 0.7
+  }
+}

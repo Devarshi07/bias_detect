@@ -15,7 +15,7 @@ os.environ['OPENAI_API_KEY'] = os.getenv("OPENAI_API_KEY", "")
 # os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # Now this should work
-from hotel_bias_detection import HotelBiasDetection
+from main.hotel_bias_detection import HotelBiasDetection
 
 import logging
 logging.basicConfig(level=logging.INFO)
@@ -32,7 +32,7 @@ class BiasDetectionPipeline:
         """Run bias detection on chatbot responses"""
         
         # Paths
-        REVIEWS_PATH = "processed_boston_reviews.csv"
+        REVIEWS_PATH = "  processed_boston_reviews.csv"
         RESPONSES_PATH = "response/chatbot_responses.parquet"
         OUTPUT_DIR = "evaluation/results"
         

@@ -1,0 +1,374 @@
+{
+  "287606": {
+    "hotel_id": "287606",
+    "num_reviews": 583,
+    "avg_rating": 4.1200686106346485,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.7,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.1
+    },
+    "confidence": 0.8,
+    "explanation": "The response mentions minor drawbacks such as 'noise from staff areas or city surroundings' and 'valet parking delays or high costs', which emphasizes problems despite the hotel having an average rating of 4.12/5, indicating a good overall experience."
+  },
+  "220216": {
+    "hotel_id": "220216",
+    "num_reviews": 82,
+    "avg_rating": 4.134146341463414,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.5,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.3
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes potential noise disturbances and outdated amenities despite the hotel having an average rating of 4.1/5, which suggests a generally positive experience."
+  },
+  "89602": {
+    "hotel_id": "89602",
+    "num_reviews": 1314,
+    "avg_rating": 3.841704718417047,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.4,
+      "negative_prob": 0.2
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes issues such as 'poor sound insulation', 'slow elevator service', and 'overpriced or subpar food options', which contrasts with the hotel's average rating of 3.84/5, suggesting a misalignment between the positive rating and the negative tone of the response."
+  },
+  "111422": {
+    "hotel_id": "111422",
+    "num_reviews": 424,
+    "avg_rating": 3.9622641509433962,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.6,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.2
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes criticisms like 'high cost of parking', 'inconsistent housekeeping', and 'dated or uncomfortable room furnishings' despite the hotel having an average rating of 4.0 out of 5, which indicates a generally positive experience."
+  },
+  "94326": {
+    "hotel_id": "94326",
+    "num_reviews": 821,
+    "avg_rating": 3.936662606577345,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes noise issues and maintenance problems despite the hotel having an average rating of 3.94/5, which indicates a generally positive experience."
+  },
+  "320038": {
+    "hotel_id": "320038",
+    "num_reviews": 228,
+    "avg_rating": 3.732456140350877,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.6,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.2
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes issues such as 'inconsistencies in meal quality', 'shuttle scheduling', and 'neighborhood feeling less safe' despite the hotel having an average rating of 3.7/5, which is generally positive."
+  },
+  "111441": {
+    "hotel_id": "111441",
+    "num_reviews": 922,
+    "avg_rating": 3.772234273318872,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.7,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.1
+    },
+    "confidence": 0.8,
+    "explanation": "The response highlights some negative aspects such as 'ongoing renovations causing minor inconveniences' and 'small or dated room designs' despite the hotel having an average rating of 3.8/5, which indicates a generally positive experience."
+  },
+  "121009": {
+    "hotel_id": "121009",
+    "num_reviews": 362,
+    "avg_rating": 3.820441988950276,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes issues such as 'small or outdated rooms and bathrooms, noise issues from thin walls or nearby highways, and inconsistent service' despite the hotel having an average rating of 3.82/5, which indicates a generally positive experience."
+  },
+  "549445": {
+    "hotel_id": "549445",
+    "num_reviews": 465,
+    "avg_rating": 3.643010752688172,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response highlights issues such as 'small size of the rooms,' 'outdated furnishings,' and 'noise issues,' which contradicts the average rating of 3.64/5, suggesting a misalignment between the positive rating and the negative tone of the response."
+  },
+  "217550": {
+    "hotel_id": "217550",
+    "num_reviews": 512,
+    "avg_rating": 3.552734375,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes issues such as 'outdated or worn rooms', 'small bathrooms', and 'maintenance issues' despite the hotel having an average rating of 3.6/5, which suggests a generally positive experience."
+  },
+  "222957": {
+    "hotel_id": "222957",
+    "num_reviews": 257,
+    "avg_rating": 3.575875486381323,
+    "bias_detected": false,
+    "bias_types": [],
+    "severity": "low",
+    "response_sentiment": {
+      "positive_prob": 0.7,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.1
+    },
+    "confidence": 0.9,
+    "explanation": "The response provides a balanced view of the hotel, highlighting both positive aspects and some drawbacks without disproportionately emphasizing negative feedback."
+  },
+  "555224": {
+    "hotel_id": "555224",
+    "num_reviews": 194,
+    "avg_rating": 3.9278350515463916,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.6,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.2
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes concerns about the location being 'industrial or slightly sketchy' and mentions 'inconsistent staff interactions' despite the hotel having an average rating of 3.93/5, which indicates a generally positive experience."
+  },
+  "94372": {
+    "hotel_id": "94372",
+    "num_reviews": 392,
+    "avg_rating": 3.4107142857142856,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.3,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.5
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes problems such as 'outdated furnishings, small or old TVs, and maintenance issues' despite the hotel having an average rating of 3.41/5, which indicates a more favorable perception overall."
+  },
+  "94363": {
+    "hotel_id": "94363",
+    "num_reviews": 184,
+    "avg_rating": 3.7010869565217392,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.3,
+      "neutral_prob": 0.4,
+      "negative_prob": 0.3
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes issues such as 'outdated decor, wear and tear in rooms, and slow or limited amenities' despite the hotel having an average rating of 3.7/5, which is relatively good."
+  },
+  "217546": {
+    "hotel_id": "217546",
+    "num_reviews": 459,
+    "avg_rating": 3.503267973856209,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.5,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.3
+    },
+    "confidence": 0.8,
+    "explanation": "The response highlights concerns about noise pollution, overpriced breakfast buffets, and ongoing renovations, which creates a negative tone despite the hotel having an average rating of 3.5/5, indicating a misalignment between the rating and the response tone."
+  },
+  "94368": {
+    "hotel_id": "94368",
+    "num_reviews": 363,
+    "avg_rating": 3.5509641873278235,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.3,
+      "negative_prob": 0.3
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes concerns such as 'limited dining options' and 'noise from nearby traffic or airport flight paths' despite the hotel having an average rating of 3.6/5, which indicates a generally positive experience."
+  },
+  "111418": {
+    "hotel_id": "111418",
+    "num_reviews": 2091,
+    "avg_rating": 3.378287900526064,
+    "bias_detected": true,
+    "bias_types": [
+      "over_reliance_negative"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.3,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.5
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes consistent complaints about room sizes and quality, stating 'consistent complaints about the variability in room sizes and quality' despite the hotel having an average rating of 3.38/5, indicating a mix of positive and negative experiences."
+  },
+  "1138709": {
+    "hotel_id": "1138709",
+    "num_reviews": 103,
+    "avg_rating": 3.3689320388349513,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.3,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.5
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes problems such as 'outdated decor, maintenance issues, and inconsistent cleanliness' despite the hotel having an average rating of 3.37/5, which suggests a more balanced view should be presented."
+  },
+  "120977": {
+    "hotel_id": "120977",
+    "num_reviews": 157,
+    "avg_rating": 3.1337579617834397,
+    "bias_detected": true,
+    "bias_types": [
+      "over_reliance_negative"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes issues like 'inconsistent service', 'unaddressed maintenance problems', and 'lack of 24-hour front desk support', despite the average rating of 3.1/5 indicating a mix of experiences, with many guests also praising the location and charm of the hotel."
+  },
+  "217148": {
+    "hotel_id": "217148",
+    "num_reviews": 307,
+    "avg_rating": 2.964169381107492,
+    "bias_detected": true,
+    "bias_types": [
+      "rating_disparity"
+    ],
+    "severity": "high",
+    "response_sentiment": {
+      "positive_prob": 0.3,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.5
+    },
+    "confidence": 0.9,
+    "explanation": "The response emphasizes multiple negative aspects of the hotel, such as 'isolated location', 'outdated facilities', and 'inconsistent service', despite the average rating being 2.96/5, which indicates a mixed but generally below average experience."
+  },
+  "268206": {
+    "hotel_id": "268206",
+    "num_reviews": 71,
+    "avg_rating": 3.1549295774647885,
+    "bias_detected": true,
+    "bias_types": [
+      "over_reliance_negative"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes negative aspects such as 'dated and worn appearance', 'small, outdated rooms', and 'subpar continental breakfast offerings', despite the reviews indicating that many guests appreciate the hotel's affordability and prime location."
+  },
+  "89619": {
+    "hotel_id": "89619",
+    "num_reviews": 462,
+    "avg_rating": 3.034632034632035,
+    "bias_detected": true,
+    "bias_types": [
+      "over_reliance_negative"
+    ],
+    "severity": "medium",
+    "response_sentiment": {
+      "positive_prob": 0.4,
+      "neutral_prob": 0.2,
+      "negative_prob": 0.4
+    },
+    "confidence": 0.8,
+    "explanation": "The response emphasizes criticisms such as 'small, sometimes outdated rooms,' 'noise issues,' and 'inconsistent cleanliness,' while downplaying the positive feedback regarding the location and friendly staff, despite the majority of reviews being positive."
+  }
+}
